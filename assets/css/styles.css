@@ -49,3 +49,32 @@ h1 {
 .featured-events-bottom h3 {
   font-size:20px;
 }
+
+/*---- Panel/Menu Styling ----*/
+.panel-primary {
+  border-color: #cccccc;
+}
+
+.panel-primary .panel-heading {
+  background-color: #333333;
+}
+
+nav li {
+  list-style:none outside;
+}
+
+.panel .media {
+  margin-bottom: 1em;
+}
+
+.thumbnail img{
+  width:100%;
+}
+
+.thumbnail h3 {
+  font-size: 1.1em;
+}
+
+#investors .thumbnail p {
+  min-height: 6em;
+}
